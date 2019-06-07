@@ -18,5 +18,5 @@ Make sure to define `MAILTO=` in your crontab to recieve emails on error.
 
 ## Similar tools
 
-https://github.com/alphapapa/restic-runner
-https://github.com/erikw/restic-systemd-automatic-backup
+* https://github.com/alphapapa/restic-runner
+* https://github.com/erikw/restic-systemd-automatic-backup
