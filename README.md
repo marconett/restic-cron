@@ -4,6 +4,7 @@ this isn't the most feature rich restic automation script, but it's dead simple 
 
 * Made to run as a cronjob
 * All configuration in one file
+* Mysqldumps
 * Supports SSH and Backblaze
 
 ## Setup
